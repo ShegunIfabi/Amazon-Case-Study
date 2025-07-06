@@ -48,3 +48,8 @@ EDA involves exploring the data to answer some questions about the data, such as
 ![Amazon 1](https://github.com/user-attachments/assets/a09d1310-c195-46cb-b155-e9547b407928)
 ![Amazon 2](https://github.com/user-attachments/assets/861bb7ba-7126-48de-8813-ca2e0e1bca78)
 
+
+## Recommendations 
+
+
+
