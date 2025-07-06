@@ -50,6 +50,12 @@ EDA involves exploring the data to answer some questions about the data, such as
 
 
 ## Recommendations 
+- Manufacture diverse products in Health and care, Musical instruments, Home Improvement, Toys and Games, and Car and Motorbike categories.
+- Solutions should be found for products with a lower rating, for customer satisfaction.
+- Products with fewer reviews should be well packaged and advertised.
+- I like the discount strategy on the lower-rated products. But my advice should be to better the production and the quality of those products.
+- The discount % is so high on some products. This also should be dealt with.
+- Advertise more products and talk about their benefits, and not what it is made of.
 
 
 
